@@ -1,0 +1,10 @@
+<h1><%= t(:welcome) %></h1>
+
+<% if @other_locale == :es %>
+  <%= render partial: 'message_en' %><br>
+  <%= link_to "en español 🇪🇸", root_path(locale: @other_locale) %>
+<% else %>
+  <%= render partial: 'message_es' %><br>
+  <%= link_to "in English 🇺🇸", root_path(locale: @other_locale) %>
+<% end %>
+
