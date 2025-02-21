@@ -1,24 +1,14 @@
-# README
+### README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Koinonia** is an imaginary nondenominational Christian congregation, whose
+homepage is contained in this Ruby on Rails project. The [site](http://3.145.48.250:3000/)
+incorporates features in the `rails-i18n` gem to create two separate versions
+of a "welcome" page--one in English, the other in Spanish.
 
-Things you may want to cover:
+#### Requirements
 
-* Ruby version
+* Ruby 3.3.1
 
-* System dependencies
+* Rails 7.1.5
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* `rails-i18n`
