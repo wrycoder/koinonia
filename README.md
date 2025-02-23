@@ -13,3 +13,7 @@ of a "welcome" page--one in English, the other in Spanish.
 * Rails 7.1.5
 
 * `rails-i18n`
+
+This project was created as the **first** in a series of three submissions
+in support of my job application with the Center for Congregations in
+Indianapolis. The other projects will be submitted separately.
