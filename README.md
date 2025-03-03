@@ -16,4 +16,6 @@ two separate versions of a "welcome" page--one in English, the other in Spanish.
 
 This project was created as the **first** in a series of three submissions
 in support of my job application with the Center for Congregations in
-Indianapolis. The other projects will be submitted separately.
+Indianapolis. The <a href="https://www.blurve-demo.com/cfc.pdf">second</a> and
+<a href="https://github.com/wrycoder/cfc">third</a> projects will be submitted
+separately.
