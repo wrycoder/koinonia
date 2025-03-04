@@ -3,8 +3,8 @@
 **Koinonia** is an imaginary nondenominational Christian congregation, whose
 homepage is contained in this Ruby on Rails project. Using the
 internationalization capabilities in the `rails-i18n` package,
-the <a href="http://3.145.48.250:3000/" target="_blank">site</a> presents
-two separate versions of a "welcome" page--one in English, the other in Spanish.
+the site presents two separate versions of a "welcome" page--one in
+English, the other in Spanish.
 
 #### Requirements
 
